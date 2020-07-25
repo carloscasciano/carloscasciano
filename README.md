@@ -10,6 +10,7 @@ My main tech skils floats around Javascript and React, but honestly, I can read 
 
 
 You can check my personal site and portfolio here: https://carloscasciano.com/
+
 ...or you can check some of my repositories below!
 
 
