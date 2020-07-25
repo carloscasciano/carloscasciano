@@ -6,7 +6,7 @@ Wore many different 🎩 hats during my career!
 
 I'm currently available for remote positions as frontend developer.
 
-My main tech skils floats around Javascript and React, but honestly, I can read the docs and tinker with most of technologies around if the correct amount of patience is provided.
+My main tech skils floats around Javascript and React, but honestly, I can read docs and tinker with most of technologies around if the correct amount of patience is provided.
 
 
 You can check my personal site and portfolio here: https://carloscasciano.com/
