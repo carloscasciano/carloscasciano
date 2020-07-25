@@ -1,16 +1,15 @@
-### Hi there 👋
+### 🌎 Hello there! 🌎
 
-<!--
-**carloscasciano/carloscasciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carlos Casciano, I'm a frontend developer focused on ReactJS.
+Been working with tech for a while, learning about the best and worst from it. 
+Wore many different 🎩 hats during my career! 
 
-Here are some ideas to get you started:
+I'm currently available for remote positions as frontend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech skils floats around Javascript and React, but honestly, I can read the docs and tinker with most of technologies around if the correct amount of patience is provided.
+
+
+You can check my personal site and portfolio here: https://carloscasciano.com/
+
+
+Contact me anytime! 🤙🤙🤙
